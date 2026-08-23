@@ -9,13 +9,13 @@
 
 main:
   - title: "People"
-    url: /People/ 
+    url: /people/ 
 
   - title: "Teaching"
     url: /teaching/   
 
   - title: "Research"
-    url: /Research/
+    url: /research/
 
   - title: "Publications"
     url: /publications/
